@@ -11,7 +11,7 @@ Licensed under the MIT License.
 - Fetch transcript on tab (page) switch/reload
 
 ## Requirements
-- A backend application running the chatbot's logic. (Saving sessions, providing answers on input and serve initial chatbot data if applicable.)
+- A backend application running the chatbot's logic. (Saving chatSessions with transcripts, providing answers on input and serve initial chatbot data if applicable.)
 - A place to host this static js file.
 
 ## Steps to complete setup
