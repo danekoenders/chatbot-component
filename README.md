@@ -2,6 +2,14 @@
 This is an open source chatbot component that has most of the basic features a chatbot window needs.
 Licensed under the MIT License.
 
+## Features
+- Chat Toggle
+- Prompt email to start a chat (and receive a token in cookies)
+- Send messages to backend route
+- Retrieve different types of replies
+- Updates buttons states on scenarios
+- Fetch transcript on tab (page) switch/reload
+
 ## Requirements
 - A backend application running the chatbot's logic. (Saving sessions, providing answers on input and serve initial chatbot data if applicable.)
 - A place to host this static js file.
